@@ -1,6 +1,6 @@
-# 💀 CyberSec+Life Facts — Serverless GenAI Project 
+#  CyberSec+Life Facts — Serverless GenAI Project 💀
 
-This project blends **cybersecurity principles** with **golden life lessons**.  
+Inspired by a cybersecurity-aware perspective that sees security principles reflected in everyday life and human interactions.  
 It’s built on AWS using a **serverless architecture** and GenAI to make each fact witty and fun.
 
 ## What It Does
