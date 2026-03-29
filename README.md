@@ -37,5 +37,4 @@ Since this project is fully powered by AWS serverless services and already deplo
 3. Returns the rephrased fact as the API response.  
 4. Optional — can easily plug into a front-end or chatbot.
 
-)
 
