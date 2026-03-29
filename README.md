@@ -3,6 +3,10 @@
 Inspired by a cybersecurity-aware perspective that sees security principles reflected in everyday life and human interactions.  
 It’s built on AWS using a **serverless architecture** and GenAI to make each fact witty and fun.
 
+##  How to Run
+
+Since this project is fully powered by AWS serverless services and already deployed, you can skip the setup and **check it out live** 👉 [https://main.d3w3hvnu7ed1sa.amplifyapp.com/](https://main.d3w3hvnu7ed1sa.amplifyapp.com/
+
 ## What It Does
 
 - Serves random cybersecurity-inspired life lessons through a **Lambda** API
@@ -33,7 +37,5 @@ It’s built on AWS using a **serverless architecture** and GenAI to make each f
 3. Returns the rephrased fact as the API response.  
 4. Optional — can easily plug into a front-end or chatbot.
 
-##  How to Run
-
-Since this project is fully powered by AWS serverless services and already deployed, you can skip the setup and **check it out live** 👉 [https://main.d3w3hvnu7ed1sa.amplifyapp.com/](https://main.d3w3hvnu7ed1sa.amplifyapp.com/)
+)
 
