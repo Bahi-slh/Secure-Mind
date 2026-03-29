@@ -5,7 +5,7 @@ It’s built on AWS using a **serverless architecture** and GenAI to make each f
 
 ##  How to Run
 
-Since this project is fully powered by AWS serverless services and already deployed, you can skip the setup and **check it out live** 👉 [https://main.d3w3hvnu7ed1sa.amplifyapp.com/](https://main.d3w3hvnu7ed1sa.amplifyapp.com/
+Since this project is fully powered by AWS serverless services and already deployed, you can skip the setup and **check it out live** 👉 https://main.d3w3hvnu7ed1sa.amplifyapp.com/](https://main.d3w3hvnu7ed1sa.amplifyapp.com/
 
 ## What It Does
 
